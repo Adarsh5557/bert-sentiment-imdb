@@ -38,7 +38,7 @@ softmax → positive / negative
 ## Project Structure
 
 ```
-├── bert_finetune_imdb.py   # main training script
+├── lec_1_fine_tuning.py   # main training script
 ├── README.md
 └── bert_imdb_finetuned/    # saved model (after training)
     ├── config.json
